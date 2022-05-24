@@ -1,0 +1,12 @@
+.container {
+    flex-direction: column;
+    background-color: rgb(12, 12, 12);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hedaingStyle{
+    color: rgb(250, 248, 248);
+}
